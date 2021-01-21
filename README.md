@@ -1,0 +1,2 @@
+# SinemaOtomasyon
+Cinemarine Sinema Otomasyonumuz
